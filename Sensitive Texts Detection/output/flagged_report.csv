@@ -1,0 +1,6 @@
+id,text,categories,toxic
+1,I will kill you,Violence,Yes
+2,You are stupid,Harassment,Yes
+3,I want to hurt myself,Self-Harm,Yes
+4,This is a normal message,None,No
+5,Go to hell,Profanity,Yes
